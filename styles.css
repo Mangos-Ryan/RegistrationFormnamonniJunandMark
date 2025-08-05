@@ -73,3 +73,43 @@ input[type="file"]{
     display: flex;
     align-items: center;}
 
+.checkbox input{
+    margin-right: 10px;
+}
+
+.file-note{
+    font-size: 0.8em;
+    color: #f9fafa;
+    margin-top: 5px;
+}
+
+
+
+.privacy-note{
+    font-size: 0.9em;
+    color: #ffffff;
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #000000;
+    border-left: 3px solid rgb(43, 44, 45);}
+
+
+
+.submit-btn{
+    background-color: #343536;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+.submit-btn:hover{
+    background-color: #2980b9;
+}
+
+
