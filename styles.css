@@ -5,3 +5,44 @@ body{
     padding: 20px;
     background-color: #312c2c;
     color: #faf6f6;}
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    background: rgb(14, 12, 5);
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);}
+
+
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 10px;}
+
+
+.subtitle{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #f4f5f6;}
+
+
+hr{
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;}
+
+
+
+.form-group{
+    margin-bottom: 15px;}
+
+
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
