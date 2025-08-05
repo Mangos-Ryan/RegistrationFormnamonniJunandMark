@@ -46,3 +46,30 @@ label{
     margin-bottom: 5px;
     font-weight: normal;
 }
+
+label strong{
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;}
+
+
+
+input[type="file"]{
+    width: 100%;
+    padding: 5px 0;
+}
+
+
+.checkbox{
+    display: flex;
+    align-items: center;}
+
